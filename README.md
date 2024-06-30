@@ -7,10 +7,16 @@
   
   # ComplianceAI: The Future of Banking Audit & Compliance
   
-  [![Made with AI](https://img.shields.io/badge/Made%20with-AI-blue.svg)](https://www.tensorflow.org/)
-  [![Built with Love](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-  [![Uses Blockchain](https://img.shields.io/badge/Uses-Blockchain-orange.svg)](https://www.blockchain.com/)
-  [![Bank of Baroda Hackathon Winner](https://img.shields.io/badge/BoB%20Hackathon-Winner%202024-gold.svg)](https://www.bankofbaroda.in/)
+ [![Made with AI](https://img.shields.io/badge/Made%20with-AI-blue.svg)](https://www.tensorflow.org/)
+[![ML Powered](https://img.shields.io/badge/ML-Powered-brightgreen.svg)](https://scikit-learn.org/)
+[![Bank of Baroda](https://img.shields.io/badge/Bank%20of-Baroda-orange.svg)](https://www.bankofbaroda.in/)
+[![BOB World](https://img.shields.io/badge/BOB-World-purple.svg)](https://www.bankofbaroda.in/personal-banking/digital-products/bob-world)
+[![Chatbot Enabled](https://img.shields.io/badge/Chatbot-Enabled-blueviolet.svg)](https://azure.microsoft.com/en-us/products/bot-services/)
+[![Azure Cloud](https://img.shields.io/badge/Azure-Cloud-0089D6.svg)](https://azure.microsoft.com/)
+[![Microsoft Tools](https://img.shields.io/badge/Microsoft-Tools-00A4EF.svg)](https://www.microsoft.com/)
+[![FinTech Innovation](https://img.shields.io/badge/FinTech-Innovation-ff69b4.svg)](https://fintech.com/)
+[![Industry 4.0](https://img.shields.io/badge/Industry-4.0-lightgrey.svg)](https://www.i-scoop.eu/industry-4-0/)
+[![BOB Hackathon Winner](https://img.shields.io/badge/BoB%20Hackathon-Winner%202024-gold.svg)](https://www.bankofbaroda.in/)
 
   *Empowering financial institutions with the treasure of compliance wisdom.*
 </div>
