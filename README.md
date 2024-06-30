@@ -34,7 +34,7 @@ To empower financial institutions with AI-driven insights, enabling them to navi
 ## 🔍 Key Features: Unleashing the Power of AI in Compliance
 
 <div align="center">
-  <img src="path_to_features_infographic.png" alt="ComplianceAI Features" width="800">
+  <img src="save.png" alt="ComplianceAI Features" width="800">
 </div>
 
 ### 🤖 AI-Powered Auditing
