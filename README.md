@@ -67,7 +67,7 @@ To empower financial institutions with AI-driven insights, enabling them to navi
 ## 💡 Why ComplianceAI? The Numbers Speak for Themselves
 
 <div align="center">
-  <img src="path_to_comparison_chart.png" alt="ComplianceAI vs Traditional Solutions" width="700">
+  <img src="save2.png" alt="ComplianceAI vs Traditional Solutions" width="700">
 </div>
 
 | Metric | ComplianceAI | Traditional Solutions | Industry Average |
@@ -88,7 +88,7 @@ To empower financial institutions with AI-driven insights, enabling them to navi
 ## 🛠️ Tech Stack: Cutting-Edge Technologies Powering ComplianceAI
 
 <div align="center">
-  <img src="path_to_tech_stack_diagram.png" alt="ComplianceAI Tech Stack" width="600">
+  <img src="save3.png" alt="ComplianceAI Tech Stack" width="600">
 </div>
 
 ### Backend Powerhouse
