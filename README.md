@@ -126,7 +126,7 @@ To empower financial institutions with AI-driven insights, enabling them to navi
 ## 📈 Market Impact: Reshaping the Financial Compliance Landscape
 
 <div align="center">
-  <img src="path_to_market_impact_graph.png" alt="ComplianceAI Market Impact" width="700">
+  <img src="https://www.goodreturns.in/img/2023/10/bob-world1200-1698054165.jpg" alt="ComplianceAI Market Impact" width="700">
 </div>
 
 ### Global RegTech Market Disruption
