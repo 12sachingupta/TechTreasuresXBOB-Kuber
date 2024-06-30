@@ -3,7 +3,8 @@ Sure! Here's a more creative and innovative README.md file for your GitHub proje
 ---
 
 <div align="center">
-  <img src="path_to_logo.png" alt="ComplianceAI Logo" width="300">
+  ![image](https://github.com/12sachingupta/TechTreasuresXBOB-Kuber/assets/104207550/73f5e330-b288-4b19-a743-214e1269e9c9)
+
   
   # ComplianceAI: The Future of Banking Audit & Compliance
   
