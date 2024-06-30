@@ -154,7 +154,7 @@ To empower financial institutions with AI-driven insights, enabling them to navi
 ## 🗺️ Product Roadmap: The Journey to Compliance Excellence
 
 <div align="center">
-  <img src="path_to_roadmap_timeline.png" alt="ComplianceAI Roadmap" width="800">
+  <img src="https://chisellabs.com/blog/wp-content/uploads/2023/12/How-To-Create-a-Product-Development-Timeline.png" alt="ComplianceAI Roadmap" width="800">
 </div>
 
 ### Phase 1: Foundation (Months 1-6)
@@ -190,7 +190,7 @@ To empower financial institutions with AI-driven insights, enabling them to navi
 ## 👥 Meet the TechTreasures: The Minds Behind the Magic
 
 <div align="center">
-  <img src="path_to_team_photo.jpg" alt="TechTreasures Team" width="600">
+  <img src="https://eventornado-files.ams3.cdn.digitaloceanspaces.com/blogposts/4/how-to-form-a-winning-team-for-hackathons.png" alt="TechTreasures Team" width="600">
 </div>
 
 ### Khushi Rathi
@@ -216,9 +216,9 @@ To empower financial institutions with AI-driven insights, enabling them to navi
 ## 🌐 Global Impact: Transforming Compliance Across Borders
 
 <div align="center">
-  <
+  
 
-img src="path_to_global_impact_map.png" alt="ComplianceAI Global Impact" width="700">
+<img src="https://img.etimg.com/thumb/width-1200,height-900,imgsize-93262,resizemode-75,msid-98862476/industry/banking/finance/banking/this-is-how-global-banking-crisis-can-impact-india-in-different-ways.jpg" alt="ComplianceAI Global Impact" width="700">
 </div>
 
 ### 🇮🇳 India
@@ -280,7 +280,7 @@ We're not just building a product; we're cultivating a community of forward-thin
 ---
 
 <div align="center">
-  <img src="path_to_footer_banner.png" alt="Join the Compliance Revolution" width="100%">
+  <img src="https://img.freepik.com/free-vector/flat-design-join-us-message_23-2148954904.jpg" alt="Join the Compliance Revolution" width="100%">
   
   *ComplianceAI: Where Innovation Meets Compliance*
 </div>
