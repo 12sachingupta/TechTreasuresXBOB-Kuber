@@ -22,7 +22,7 @@
 In a world where financial regulations are ever-evolving and the stakes for compliance have never been higher, ComplianceAI emerges as a beacon of innovation. Born from the creative minds at TechTreasures during the Bank of Baroda Hackathon 2024, our solution is not just a tool—it's a paradigm shift in how banks approach audit and compliance.
 
 <div align="center">
-  <img src="path_to_ai_banner.gif" alt="AI in Banking" width="600">
+  <img src="save1.gif" alt="AI in Banking" width="600">
 </div>
 
 ### 🎯 Our Mission
