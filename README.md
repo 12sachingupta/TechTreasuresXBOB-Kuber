@@ -1,9 +1,8 @@
-Sure! Here's a more creative and innovative README.md file for your GitHub project:
-
----
 
 <div align="center">
-  ![image](https://github.com/12sachingupta/TechTreasuresXBOB-Kuber/assets/104207550/73f5e330-b288-4b19-a743-214e1269e9c9)
+ 
+  <img src="https://images.ctfassets.net/ukazlt65o6hl/1rWCLaP3w1iMUSkZsg9dG4/ab39b7646762b37b2296c07ae08182ff/MicrosoftTeams-image__55_.png" alt="ComplianceAI Logo" width="300">
+
 
   
   # ComplianceAI: The Future of Banking Audit & Compliance
