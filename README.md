@@ -293,114 +293,58 @@ We're not just building a product; we're cultivating a community of forward-thin
   *ComplianceAI: Where Innovation Meets Compliance*
 </div>
 
-Compliance Management System
-Overview
-Welcome to the Compliance Management System! This application is designed to streamline and enhance your compliance operations through a comprehensive and user-friendly interface. It integrates AI-driven features, risk assessments, regulatory updates, training modules, and audit logs, all accessible via a modern web application.
+# ChatbotBOB - ComplianceAI
 
+ChatbotBOB is a compliance-focused chatbot designed to assist users in navigating and understanding compliance-related queries and tasks. This project leverages machine learning models to provide accurate and helpful responses to user inquiries.
 
-Features
-User Authentication: Secure login and registration with JWT.
-AI Chatbot: Powered by OpenAI for intelligent responses and guidance.
-Risk Assessments: Conduct and manage risk assessments efficiently.
-Regulatory Updates: Stay updated with the latest regulations.
-Training Modules: Access and manage compliance training programs.
-Audit Logs: Maintain detailed records of compliance activities.
-Compliance Reports: Generate and review comprehensive reports.
-Technologies Used
-Backend: Flask, SQLAlchemy, Bcrypt, JWT, OpenAI API
-Frontend: React, React Router, Axios
-Database: SQLite (easily extendable to other databases)
-Styling: CSS
-Getting Started
-Prerequisites
-Python 3.7+
-Node.js 14+
-Installation
-Backend Setup
-Navigate to the backend directory:
+## Table of Contents
 
-sh
-Copy code
-cd backend
-Install the required Python packages:
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-sh
-Copy code
-pip install -r requirements.txt
-Create a .env file with the following environment variables:
+## Features
 
-env
-Copy code
-SECRET_KEY=your_secret_key
-JWT_SECRET_KEY=your_jwt_secret_key
-OPENAI_API_KEY=your_openai_api_key
-Run the Flask app:
+- **Compliance Assistance**: Provides information and answers related to compliance.
+- **User-Friendly**: Easy to use interface for seamless interaction.
+- **Accurate Responses**: Utilizes advanced machine learning models for precise answers.
 
-sh
-Copy code
-flask run
-Frontend Setup
-Navigate to the frontend directory:
+## Installation
 
-sh
-Copy code
-cd frontend
-Install the required Node.js packages:
+To install and set up the project locally, follow these steps:
 
-sh
-Copy code
-npm install
-Create a .env file with the following environment variable:
+1. **Clone the Repository**
 
-env
-Copy code
-REACT_APP_API_URL=http://localhost:5000
-Start the React app:
+   ```bash
+   git clone https://github.com/12sachingupta/TechTreasuresXBOB-Kuber.git
+   cd TechTreasuresXBOB-Kuber
+## Install Streamlit
 
-sh
-Copy code
-npm start
+If you don't have Streamlit installed, you can install it using pip:
+
+```bash
+pip install streamlit
 Usage
-Access the Frontend: http://localhost:3000
-Access the Backend API: http://localhost:5000
-Project Structure
+To run the chatbot application, use the following command:
+
 bash
 Copy code
-compliance-management-system/
-├── backend/
-│   ├── app.py
-│   ├── models.py
-│   ├── requirements.txt
-│   └── .env
-├── frontend/
-│   ├── public/
-│   │   ├── index.html
-│   ├── src/
-│   │   ├── App.css
-│   │   ├── App.js
-│   │   ├── index.js
-│   │   ├── components/
-│   │   │   ├── Chat.js
-│   │   ├── pages/
-│   │   │   ├── Home.js
-│   │   │   ├── Login.js
-│   │   │   ├── Profile.js
-│   │   │   ├── RiskAssessments.js
-│   │   │   ├── RegulatoryUpdates.js
-│   │   │   ├── TrainingModules.js
-│   │   │   ├── AuditLogs.js
-│   ├── .env
-│   ├── .gitignore
-│   ├── package.json
-│   ├── README.md
-└── .gitignore
-Contributing
-We welcome contributions to enhance the functionality and user experience of the Compliance Management System. If you have suggestions or improvements, please feel free to open an issue or submit a pull request.
+streamlit run chatbot_app.py
+This will start the Streamlit server and open the chatbot application in your default web browser.
 
+Contributing
+We welcome contributions to enhance the capabilities of ChatbotBOB. To contribute, follow these steps:
+
+Fork the repository.
+Create a new branch: git checkout -b feature-name.
+Make your changes and commit them: git commit -m 'Add some feature'.
+Push to the branch: git push origin feature-name.
+Open a pull request.
 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contact
-For any questions or feedback, please contact yourname@example.com.
-
-
+For any inquiries or feedback, please contact:
